@@ -1,6 +1,6 @@
 # senhas_fortes_gen
 Gerador de senhas fortes for Python
-
+-------------------------------------------------------------------------------------
 import random
 import string
 
